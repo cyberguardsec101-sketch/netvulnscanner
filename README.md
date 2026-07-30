@@ -27,23 +27,24 @@ IoT control	API específicas	Abre URLs en Chromecast, Samsung/LG TV (funcionalid
 
 # 🧪 Ejemplo de salida con los nuevos módulos
 
-============================================================
+
     NETVULNSCANNER PRO - Módulos avanzados
     Uso autorizado solamente.
-============================================================
+
 [*] Escaneando WiFi en wlan0 durante 30s...
 [+] Encontradas 4 redes WiFi.
+
 
 Redes WiFi encontradas:
   00:11:22:33:44:55 | CH 6 | WPA2 | MiWiFi
   AA:BB:CC:DD:EE:FF | CH 1 | WPA | Vecino
+
 
 ¿Capturar handshake de alguna red? (s/n): s
 BSSID: 00:11:22:33:44:55
 Canal: 6
 [*] Intentando capturar handshake para 00:11:22:33:44:55 en canal 6...
 [+] Handshake capturado: /tmp/handshake_capture-01.cap
-
 [*] Buscando dispositivos UPnP/SSDP...
 [+] Encontrados 2 dispositivos UPnP.
 [*] Buscando dispositivos mDNS (Bonjour)...
